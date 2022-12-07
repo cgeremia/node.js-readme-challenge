@@ -1,8 +1,10 @@
 # README.md
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  Create a README.md file through nodejs
+  Generate a README.md file via nodejs
 
   ## Table of Contents
 
@@ -19,7 +21,7 @@
 
   ## Usage
 
-  To understand how to generate a README.md file through nodejs for use on future projects.
+  To understand how to generate a README.md file for use in future projects. 
 
   ## License
 
@@ -29,7 +31,6 @@
   
   https://opensource.org/licenses/MIT 
     
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
   
@@ -39,9 +40,5 @@
   None.
 
   ## Questions
-  My GitHub: https://github.com/github.com/cgeremia <br>
+  My GitHub: [undefined](https://github.com/github.com/cgeremia) <br>
   Email me: g_cristina@live.com
-
-## Screenshot
-
-## Video Submission

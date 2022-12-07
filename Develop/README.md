@@ -21,7 +21,7 @@
 
   ## Usage
 
-  To understand how to generate a README.md file for use in future projects. 
+  To understand how to generate a README.md file via nodejs for use in future projects/applications.
 
   ## License
 
@@ -34,11 +34,11 @@
 
   ## Contributing
   
-  N/A
+  No
   
   ## Tests
-  None.
+  None
 
   ## Questions
-  My GitHub: [undefined](https://github.com/github.com/cgeremia) <br>
+  My GitHub: [undefined](https://github.com/cgeremia) <br>
   Email me: g_cristina@live.com

@@ -91,7 +91,7 @@ function generateMarkdown(data) {
 
   ## Questions
   My GitHub: [${data.githubUsername}](https://github.com/${
-    data.githubUsername
+    data.githubUser
   }) <br>
   Email me: ${data.emailInfo}
 `;

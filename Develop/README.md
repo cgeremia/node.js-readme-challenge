@@ -40,7 +40,7 @@
   None
 
   ## Questions
-  My GitHub: [undefined](https://github.com/cgeremia) <br>
+  My GitHub: https://github.com/cgeremia <br>
   Email me: g_cristina@live.com
   
   ## Video Submission Link 
